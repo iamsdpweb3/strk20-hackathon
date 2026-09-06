@@ -1888,5 +1888,13 @@
     ],
     "name": "VeruShield Connect",
     "one_liner": "Encrypted Messaging on STRK20"
-  }
+  },
+  {
+    "repo_url": "https://github.com/iamsdpweb3/starkbet21",
+    "telegram": [
+      "livingwithuncertainty"
+    ],
+    "name": "StarkBet21",
+    "one_liner": "private blackjack on Starknet"
+  },
 ]
